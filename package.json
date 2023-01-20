@@ -1,0 +1,17 @@
+{
+  "name": "dynamodb-harrypotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1296.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
